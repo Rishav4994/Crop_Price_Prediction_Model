@@ -6,7 +6,7 @@ A Machine Learning web application that predicts agricultural crop prices using 
 The project integrates data preprocessing, machine learning modeling, and a Streamlit dashboard for real-time predictions.
 
 ## 🔗 Link:
-https://croppriceprediction-lpcpihfuevtfvvzajowv3r.streamlit.app/
+https://croppricepredictionmodel-eyz5xauxvkf5gbezhxuntt.streamlit.app/
 ## 🚀 Features
 
 - 🌱 Crop selection input
